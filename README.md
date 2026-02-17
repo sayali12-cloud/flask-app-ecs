@@ -5,6 +5,14 @@
 This project is a **Python Flask web application** that is fully **containerized using Docker** and deployed on **AWS EC2**.  
 It demonstrates a real-world **DevOps workflow** including **Docker image building, container management, and cloud deployment**.
 
+I forked this open-source project and independently performed:
+- Docker image build
+- Containerization
+- AWS EC2 deployment
+- Running the application in a live cloud environment
+
+This demonstrates a real-world DevOps workflow.
+
 ---
 
 ## 📌 Project Highlights
@@ -142,6 +150,18 @@ This project proves your knowledge of:
 - ✔️ Docker Container Management  
 - ✔️ AWS EC2 Deployment  
 - ✔️ Basic DevOps Workflow  
+
+---
+
+## 👩‍💻 My Contribution
+
+As part of this project, I:
+
+- Forked the original repository
+- Built the Docker image locally
+- Deployed the application on AWS EC2
+- Managed container execution on the cloud
+- Successfully accessed the application via EC2 Public IP
 
 ---
 
