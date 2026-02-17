@@ -1,5 +1,7 @@
 # 🚀 Flask Application Deployment using Docker on AWS EC2
 
+> Forked from Vedant Tambe's open-source project and deployed independently on AWS EC2.
+
 This project is a **Python Flask web application** that is fully **containerized using Docker** and deployed on **AWS EC2**.  
 It demonstrates a real-world **DevOps workflow** including **Docker image building, container management, and cloud deployment**.
 
