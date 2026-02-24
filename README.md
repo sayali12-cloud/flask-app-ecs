@@ -164,7 +164,16 @@ As part of this project, I:
 - Successfully accessed the application via EC2 Public IP
 
 ---
+## 📸 Screenshots
 
+### 🖥 Application Running
+![Application Screenshot](screenshots/app-running.png)
+
+### 🐳 Docker Containers
+![Docker PS](screenshots/docker-ps.png)
+
+### ☁️ AWS EC2 Instance
+![EC2 Instance](screenshots/ec2-instance.png)
 ## 🙌 Author
 
 **Developed by:** Vedant Tambe  
